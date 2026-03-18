@@ -1,55 +1,123 @@
-# Hi, I'm Praveen Kumar 👋
+<div align="center">
 
-🎓 M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany  
-🔭 AI Engineer focused on **LLMs, Generative AI, and Agentic RAG systems**  
-🌍 Based in Cottbus, Germany
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Praveen%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20Agentic%20RAG%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=a78bfa" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+systems+%F0%9F%A4%96;LLMs+%7C+Agentic+RAG+%7C+Fine-Tuning;M.Sc.+AI+%40+BTU+Cottbus-Senftenberg+%F0%9F%8E%93;Bridging+Research+%26+Production+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm an AI Researcher and Engineer passionate about building systems that are both **theoretically grounded and measurably impactful**. My work sits at the intersection of cutting-edge AI research and production-grade engineering — from fine-tuning large language models to deploying scalable agentic pipelines on the cloud.
-
-I've worked on real-world AI systems including a production-level **Agentic RAG system**, an **AI-powered financial chatbot** for SEC filing analysis, and a **GenAI voice summarizer** using local LLMs for privacy-first inference.
+```python
+praveen = {
+    "role"      : "AI Engineer & Researcher",
+    "education" : "M.Sc. Artificial Intelligence @ BTU Cottbus-Senftenberg 🇩🇪",
+    "focus"     : ["LLMs", "Generative AI", "Agentic RAG", "LLM Fine-Tuning"],
+    "cloud"     : ["AWS", "Google Cloud Platform"],
+    "languages" : ["English 🇬🇧", "German 🇩🇪", "Hindi", "Telugu"],
+    "mission"   : "Bridging rigorous AI research with measurably impactful production systems"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & ML**  
-`LLMs` `Generative AI` `LangChain` `Agno` `Agentic RAG` `Graph RAG` `LLM Fine-Tuning (SFT/RLHF)` `NLP` `Computer Vision` `Semantic Search` `Embeddings`
+<div align="center">
 
-**Data & Databases**  
-`Pinecone` `ChromaDB` `SQL` `Oracle DB` `Azure SQL` `Firebase` `Power BI` `Tableau`
+**AI & Machine Learning**
 
-**Cloud & DevOps**  
-`AWS` `Google Cloud Platform` `Docker` `CI/CD Pipelines` `MLOps`
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
-**Development**  
-`Python` `JavaScript` `TypeScript` `React.js` `Node.js` `Express.js` `REST APIs` `Git` `C++`
+**Cloud & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,firebase&theme=dark)](https://skillicons.dev)
+
+**Web & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+| 🤖 AI & LLMs | ☁️ Cloud | 💾 Data | 🧰 Dev Tools |
+|:---:|:---:|:---:|:---:|
+| LangChain · Agno | AWS · GCP | Pinecone · Chroma | Docker · Git |
+| Agentic RAG · Graph RAG | Azure SQL · Firebase | SQL · Power BI | CI/CD · MLOps |
+| Fine-Tuning (SFT/RLHF) | Oracle DB | Tableau · Matplotlib | REST APIs |
+| Semantic Search · NLP | Compute & Clusters | Feature Engineering | C++ · TypeScript |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🎙️ **AI Voice Note Summarizer** — Full-stack GenAI app using Llama 3 (via Ollama) + Google Cloud Speech-to-Text for privacy-focused voice-to-insight transcription
-- 📚 **Academic RAG with Precision Reranking** — Multi-stage RAG pipeline with vector retrieval (Pinecone/Chroma) and reranking models, benchmarked against standard RAG baselines
-- 💬 **Financial Chatbot (BCG GenAI Simulation)** — LLM-powered chatbot for automated insight extraction from 10-K/10-Q SEC filings with ETL pipelines
-- 🔐 **Military Communication App** — End-to-end encrypted tactical messaging system with AES encryption and hierarchical RBAC
+<div align="center">
+
+| Project | Description | Stack |
+|:---|:---|:---:|
+| 🎙️ **[AI Voice Note Summarizer](https://github.com/Praveenkumarchilukuri/ai-voicenote-summarizer)** | Privacy-first voice-to-insight engine using Llama 3 & Google Cloud STT | `Python` `Ollama` `Streamlit` |
+| 📚 **Academic RAG with Precision Reranking** | Multi-stage RAG pipeline with vector retrieval + reranking, benchmarked vs baselines | `Python` `Pinecone` `LangChain` |
+| 💬 **Financial Chatbot (BCG GenAI Sim)** | LLM-powered insight extraction from 10-K/10-Q SEC filings with ETL pipelines | `Python` `LLMs` `pandas` |
+| 🔐 **[Military Communication App](https://github.com/Praveenkumarchilukuri/military-communications-system)** | End-to-end AES-encrypted tactical messaging with hierarchical RBAC | `Python` `SQL` `React` |
+| 🎮 **[Softgame Platform](https://github.com/Praveenkumarchilukuri/softgame)** | Full-stack interactive gaming platform with real-time analytics dashboard | `MERN Stack` |
+
+</div>
 
 ---
 
-## 📜 Certifications & Achievements
+## 📊 GitHub Stats
 
-- 🏅 BCG GenAI Job Simulation — Forage
-- 🏅 Building & Evaluating Advanced RAG — DeepLearning.AI
-- 🏅 HackerRank SQL Certification
-- 🏅 JPMorgan Chase & Goldman Sachs Software Engineering Simulations — Forage
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarchilukuri&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarchilukuri&layout=compact&theme=midnight-purple&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Praveenkumarchilukuri&theme=midnight-purple&border_radius=12)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+## 🏅 Certifications & Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/praveen-kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://praveen-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-praveenkumar.cq%40gmail.com-red?style=flat&logo=gmail)](mailto:praveenkumar.cq@gmail.com)
+<div align="center">
+
+![BCG GenAI](https://img.shields.io/badge/BCG%20GenAI%20Simulation-Forage-4B0082?style=for-the-badge&logo=google&logoColor=white)
+![DeepLearning AI](https://img.shields.io/badge/Advanced%20RAG-DeepLearning.AI-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)
+![HackerRank](https://img.shields.io/badge/SQL%20Certified-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JPMorgan%20SE%20Simulation-Forage-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)
+![Goldman](https://img.shields.io/badge/Goldman%20Sachs%20AI%20Internship-Studio-6DB33F?style=for-the-badge&logo=goldman-sachs&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-kumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-praveenkumar.cq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenkumar.cq@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Praveenkumarchilukuri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveenkumarchilukuri)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Praveenkumarchilukuri&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
