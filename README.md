@@ -65,20 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarchilukuri&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarchilukuri&layout=compact&theme=midnight-purple&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Praveenkumarchilukuri&theme=midnight-purple&border_radius=12)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
