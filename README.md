@@ -10,16 +10,12 @@
 
 ## 🧠 About Me
 
---- python
-praveen = {
-    "role"      : "AI Engineer & Researcher",
-    "education" : "M.Sc. Artificial Intelligence @ BTU Cottbus-Senftenberg 🇩🇪",
-    "focus"     : ["LLMs", "Generative AI", "Agentic RAG", "LLM Fine-Tuning"],
-    "cloud"     : ["AWS", "Google Cloud Platform"],
-    "languages" : ["English 🇬🇧", "German 🇩🇪", "Hindi", "Telugu"],
-    "mission"   : "Bridging rigorous AI research with measurably impactful production systems"
-}
----
+🎓 **M.Sc. Artificial Intelligence** @ BTU Cottbus-Senftenberg, Germany  
+🤖 **AI Engineer** specializing in LLMs, Generative AI & Agentic RAG systems  
+☁️ Building scalable AI pipelines on **AWS** and **Google Cloud Platform**  
+🔬 Passionate about bridging rigorous AI research with production-grade implementation  
+🌍 Languages: **English** · **German** · **Hindi** · **Telugu**
+
 ---
 
 ## 🛠️ Tech Stack
@@ -67,7 +63,24 @@ praveen = {
 
 </div>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarchilukuri&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarchilukuri&layout=compact&theme=midnight-purple&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Praveenkumarchilukuri&theme=midnight-purple&border_radius=12)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 ## 🏅 Certifications & Achievements
 
