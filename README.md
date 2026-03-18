@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-python
+--- python
 praveen = {
     "role"      : "AI Engineer & Researcher",
     "education" : "M.Sc. Artificial Intelligence @ BTU Cottbus-Senftenberg 🇩🇪",
@@ -19,7 +19,7 @@ praveen = {
     "languages" : ["English 🇬🇧", "German 🇩🇪", "Hindi", "Telugu"],
     "mission"   : "Bridging rigorous AI research with measurably impactful production systems"
 }
-
+---
 ---
 
 ## 🛠️ Tech Stack
