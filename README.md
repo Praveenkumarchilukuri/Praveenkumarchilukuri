@@ -49,18 +49,18 @@
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---:|
 
-| 🧠 **[Domain-Specific-RAG-Research-Assistant](https://github.com/Praveenkumarchilukuri/Domain-Specific-RAG-Research-Assistant-.git)** |  Build a retrieval-augmented generation system that answers questions over a corpus of real academic papers |  `LangChain` `Google Gemini GenAI` `ChromaDB/FAISS` `Sentence-Transformers` `PyMuPDF` `Streamlit` `Ragas`|
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🧠 **[Domain-Specific-RAG-Research-Assistant](https://github.com/Praveenkumarchilukuri/Domain-Specific-RAG-Research-Assistant-.git)** | Build a retrieval-augmented generation system that answers questions over a corpus of real academic papers | `LangChain` `Google Gemini GenAI` `ChromaDB/FAISS` `Sentence-Transformers` `PyMuPDF` `Streamlit` `Ragas` |
 | 🎙️ **[AI Voice Note Summarizer](https://github.com/Praveenkumarchilukuri/ai-voicenote-summarizer)** | Privacy-first voice-to-insight engine using Llama 3 & Google Cloud STT | `Python` `Ollama` `Streamlit` |
-| 📚 **[Academic RAG with Precision Reranking](https://github.com/Praveenkumarchilukuri/Gen_AI_Project.git) **| Multi-stage RAG pipeline with vector retrieval + reranking, benchmarked vs baselines | `Python` `Pinecone` `LangChain` |
-| 💬 **[Financial Chatbot (BCG GenAI Sim)] (https://github.com/Praveenkumarchilukuri/Financial-Chatbot-Prototype.git)** | LLM-powered insight extraction from 10-K/10-Q SEC filings with ETL pipelines | `Python` `LLMs` `pandas` |
-| 🔐 **[Military Communication App](https://github.com/Praveenkumarchilukuri/military-communications-system)** | End-to-end AES-encrypted tactical messaging with hierarchical RBAC | `Python` `SQL` `React` |
+| 📚 **[Academic RAG with Precision Reranking](https://github.com/Praveenkumarchilukuri/Gen%20AI%20Project.git)** | Multi-stage RAG pipeline with vector retrieval + reranking, benchmarked vs baselines | `Python` `Pinecone` `LangChain` |
+| 💬 **[Financial Chatbot (BCG GenAI Sim)](https://github.com/Praveenkumarchilukuri/Financial-Chatbot-Prototype.git)** | LLM-powered insight extraction from 10-K/10-Q SEC filings with ETL pipelines | `Python` `LLMs` `pandas` |
+| 🔒 **[Military Communication App](https://github.com/Praveenkumarchilukuri/military-communications-system)** | End-to-end AES-encrypted tactical messaging with hierarchical RBAC | `Python` `SQL` `React` |
 | 🎮 **[Softgame Platform](https://github.com/Praveenkumarchilukuri/softgame)** | Full-stack interactive gaming platform with real-time analytics dashboard | `MERN Stack` |
 
 </div>
