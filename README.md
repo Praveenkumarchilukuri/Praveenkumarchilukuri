@@ -55,6 +55,8 @@
 
 | Project | Description | Stack |
 |:---|:---|:---:|
+
+| 🧠 **[Domain-Specific-RAG-Research-Assistant](https://github.com/Praveenkumarchilukuri/Domain-Specific-RAG-Research-Assistant-.git)** |  Build a retrieval-augmented generation system that answers questions over a corpus of real academic papers |  `LangChain` `Google Gemini GenAI` `ChromaDB/FAISS` `Sentence-Transformers` `PyMuPDF` `Streamlit` `Ragas`|
 | 🎙️ **[AI Voice Note Summarizer](https://github.com/Praveenkumarchilukuri/ai-voicenote-summarizer)** | Privacy-first voice-to-insight engine using Llama 3 & Google Cloud STT | `Python` `Ollama` `Streamlit` |
 | 📚 **Academic RAG with Precision Reranking** | Multi-stage RAG pipeline with vector retrieval + reranking, benchmarked vs baselines | `Python` `Pinecone` `LangChain` |
 | 💬 **Financial Chatbot (BCG GenAI Sim)** | LLM-powered insight extraction from 10-K/10-Q SEC filings with ETL pipelines | `Python` `LLMs` `pandas` |
